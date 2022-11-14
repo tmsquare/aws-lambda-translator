@@ -1,1 +1,2 @@
-# aws-lambda-translator
+# Serverless Translator - AWS Lambda + Amazon Translate
+
